@@ -4,16 +4,20 @@
   - [ ] [Rust by example](https://doc.rust-lang.org/rust-by-example/)
   - [ ] [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
-- [ ] Async Rust
+- [ ] Async Rust and parallelisation
   - [ ] [Async Book](https://rust-lang.github.io/async-book/)
   - [ ] [async-std docs](http://async.rs)
   - [ ] [tokio docs](https://tokio.rs)
   - [ ] [Phil Op article for Operating System](https://os.phil-opp.com/async-await/)
   - [x] [fasterthanlime Pin and suffering article]()
   - [ ] [fasterthanlime Futures article](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
+  - [ ] [what is blocking? - rayon](https://ryhl.io/blog/async-what-is-blocking/#the-rayon-crate)
   - [ ] [Jon Gjengset - the what how and whatever of futures]
   - [ ] [Jon Gjengset - the what who and whatever of pinning]
   - [ ] [Jon Gjengset - rustonomicon]
+
+- [ ] Actor model
+  - [ ] Actix crate documentation
 
 
 - [ ] WASM
