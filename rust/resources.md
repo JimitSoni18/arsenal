@@ -38,3 +38,9 @@
 
 - [ ] This should be on the top, but...
   - [ ] the standard library documentation
+
+- [ ] Useful blogs
+  - [ ] [pretzelhammer rust blogs](https://github.com/pretzelhammer/rust-blog)
+  - [ ] [fasterthanlime rust blogs](https://fasterthanli.me)
+  - [ ] [tokio - Inventing the service trait](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
+  - [ ] [phil op operating system in rust](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
