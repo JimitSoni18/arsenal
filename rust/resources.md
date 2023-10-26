@@ -35,6 +35,9 @@
   - [ ] [don't trust anything that says "medium"](https://medium.com/@niklasbuechner/how-i-sped-up-my-rust-program-from-30-minutes-to-a-few-seconds-32a00509c7e)
   - [ ] [and another random article](http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html)
   - [ ] this feels important -lazy loading, lazy_static & OneCell
+     
+- [ ] Embedded
+  - [ ] [Ferrous systems embedded trainings](https://embedded-trainings.ferrous-systems.com)
 
 - [ ] This should be on the top, but...
   - [ ] the standard library documentation
