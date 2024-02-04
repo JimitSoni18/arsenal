@@ -40,6 +40,7 @@
      
 - [ ] Embedded
   - [ ] [Ferrous systems embedded trainings](https://embedded-trainings.ferrous-systems.com)
+  - [ ] [The embeddonomicon](https://docs.rust-embedded.org/embedonomicon/)
 
 - [ ] This should be on the top, but...
   - [ ] the standard library documentation
@@ -49,4 +50,3 @@
   - [ ] [fasterthanlime rust blogs](https://fasterthanli.me)
   - [ ] [tokio - Inventing the service trait](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
   - [ ] [phil op operating system in rust](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
-  - [ ] [The embeddonomicon](https://docs.rust-embedded.org/embedonomicon/)
