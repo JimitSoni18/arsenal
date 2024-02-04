@@ -15,6 +15,8 @@
   - [ ] [Jon Gjengset - the what how and whatever of futures]
   - [ ] [Jon Gjengset - the what who and whatever of pinning]
   - [ ] [Jon Gjengset - rustonomicon]
+  - [ ] [Mara Bos - atomics](https://marabos.nl/atomics/)
+  - [ ] [Atomics from the nomicon](https://doc.rust-lang.org/nomicon/atomics.html)
 
 - [ ] Actor model
   - [ ] Actix crate documentation
@@ -47,3 +49,4 @@
   - [ ] [fasterthanlime rust blogs](https://fasterthanli.me)
   - [ ] [tokio - Inventing the service trait](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
   - [ ] [phil op operating system in rust](https://tokio.rs/blog/2021-05-14-inventing-the-service-trait)
+  - [ ] [The embeddonomicon](https://docs.rust-embedded.org/embedonomicon/)
