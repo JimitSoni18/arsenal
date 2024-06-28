@@ -6,13 +6,13 @@
 
 - [ ] Async Rust and parallelisation
   - [ ] [Async Book](https://rust-lang.github.io/async-book/)
-  - [ ] [async-std docs](http://async.rs)
-  - [ ] [tokio docs](https://tokio.rs)
+  - [x] [async-std docs](http://async.rs) <!-- incomplete -->
+  - [x] [tokio docs](https://tokio.rs) <!-- sucks btw -->
   - [ ] [Phil Op article for Operating System](https://os.phil-opp.com/async-await/)
   - [x] [fasterthanlime Pin and suffering article]()
   - [ ] [fasterthanlime Futures article](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
   - [ ] [what is blocking? - rayon](https://ryhl.io/blog/async-what-is-blocking/#the-rayon-crate)
-  - [ ] [Jon Gjengset - the what how and whatever of futures]
+  - [x] [Jon Gjengset - the what how and whatever of futures]
   - [ ] [Jon Gjengset - the what who and whatever of pinning]
   - [ ] [Jon Gjengset - rustonomicon]
   - [ ] [Mara Bos - atomics](https://marabos.nl/atomics/)
