@@ -28,6 +28,9 @@
 - [ ] Unstable, Nightly and unsafe
   - [ ] [The rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
   - [ ] [The unstable book](https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html)
+     
+- [ ] Compiler
+  - [ ] [Rust compiler development guide](https://rustc-dev-guide.rust-lang.org/)
 
 - [ ] Performance
   - [ ] [The perf-book](https://nnethercote.github.io/perf-book/introduction.html)
