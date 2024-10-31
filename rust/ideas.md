@@ -2,3 +2,7 @@
 - [ ] terminal streamer using asciinema, with damage events for minimum payload in updates. research compression of text data (watch and understand theprimeagen's particle system)
 - [ ] webtransport message framing [WIP](https://github.com/JimitSoni18/transport-io)
 - [x] ansi terminal text xml representation [WIP](https://github.com/JimitSoni18/anscii)
+- [ ] a media streaming platform, like jellyfin, using mpeg-dash streaming, with solid js front end and when moq (media over quic) gets ready and usable, transition to moq.
+- [ ] a Wayland compositor for learning the protocol, using  smithay. or contribute to niri.
+- [ ] a columnar database and library, after learning about sstables, red black trees, log structured merge trees, implementing btrees and b+ trees. call it detour.
+- [ ] a chat application using http3, webtransport for messages, learn about webrtc and VoIP for calls audio and video. then transition to moq if feasible. learn and use Scylla db.
